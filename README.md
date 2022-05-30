@@ -1,4 +1,10 @@
 <h4 align="center"><samp> Hi there 👋🏾  my name is Kristian! </samp></h4>
+<div align="center">
+  
+![https://twitter.com/kr3dde](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)
+![https://linkedin.com/in/kristian-schwienbacher](https://img.shields.io/badge/LinkedIn-0077B5?logo=twitter&logoColor=white&style=flat-square)
+  
+</div>
 
 ![image](https://github.com/kredde/kredde/blob/master/dino.gif)
 
@@ -28,7 +34,4 @@
 ![](https://img.shields.io/badge/Pandas-30799C?logo=pandas&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/ScikitLearn-30799C?logo=scikitlearn&logoColor=white&style=flat-square)
 
-<p align="center">
-<a href="https://twitter.com/kr3dde" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kr3dde" height="28" width="111" /></a>
-<a href="https://linkedin.com/in/kristian-schwienbacher" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kristian.schwienbacher" height="28" width="111" /></a>
-</p>
+
