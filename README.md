@@ -8,7 +8,7 @@
 
 ![image](https://github.com/kredde/kredde/blob/master/dino.gif)
 
-<h5>languages</h5>
+[//]: # <h5>languages</h5>
 
 ![](https://img.shields.io/badge/JavaScript-fcdc00?logo=javascript&logoColor=black&style=flat-square)
 ![](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square)
